@@ -11,4 +11,8 @@ Task 4: Context-Aware Chatbot Using LangChain or RAG
 
 https://github.com/toobafatima21ai-hue/RAG-_Context-_Chatbot
 
+Task 5: Auto Tagging Support Tickets Using LLM
+
+https://github.com/toobafatima21ai-hue/Auto-Tagging-Support-Tickets-Using-LLM
+
 
